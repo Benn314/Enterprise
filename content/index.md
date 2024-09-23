@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Ben's Vault
 ---
 
 
@@ -10,8 +10,7 @@ title: Welcome to Quartz
 Welcome!
 ```
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+你好，我是凌云木。这里是我记录创业相关的知识库，现阶段的目标是当知识体系完善时，发展个人 iP 和社群。
 
-最近在读：[价值心法](基础/价值心法/笔记.md)
+
 
