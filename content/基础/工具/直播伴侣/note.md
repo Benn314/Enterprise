@@ -63,3 +63,10 @@
 [抖音直播伴侣绿幕智慧大屏使用指南 - 飞书云文档](https://bytedance.larkoffice.com/docx/KSOydkZA3oqPbgxwbLKc8PMnnMb)
 
 [【付费直播】直播伴侣使用手册 - 飞书云文档](https://bytedance.larkoffice.com/docx/doxcnFl8SAQTPoTSVxZzlij3JGg)
+
+
+直播伴侣支持最高320kbps（无损音质）的音频码率传输，以及关闭可能导致音质损伤的音频算法
+
+
+- 勾选无损音质关闭音频算法，注意关闭算法可能会导致回音等问题，请在非外放场景使用该功能
+- 注意如果使用了外接声卡，请注意勾选无损音质选项
